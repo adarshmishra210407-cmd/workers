@@ -6,7 +6,6 @@ A modern, React-based web application for managing workers, tracking daily atten
 
 ![Application Flowchart](https://q9ki2f3og4rxackg.public.blob.vercel-storage.com/Worker%20Attendance%20Payment-2026-03-27-095246.png)
 
-*(Note: Please save your flowchart image as `flowchart.jpg` in the root directory of this project so it displays correctly here.)*
 
 ## Features
 
