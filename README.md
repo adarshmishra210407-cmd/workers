@@ -4,7 +4,7 @@ A modern, React-based web application for managing workers, tracking daily atten
 
 ## Application Architecture
 
-![Application Flowchart](https://q9ki2f3og4rxackg.public.blob.vercel-storage.com/Worker%20Attendance%20Payment-2026-03-27-095246.png)
+![Application Flowchart](https://q9ki2f3og4rxackg.public.blob.vercel-storage.com/neede%20for%20github.jpeg)
 
 
 ## Features
